@@ -8,7 +8,9 @@ import Section6 from './Components/Section6';
 import Footercards from './Components/Footercards';
 import Footerslider from './Components/Footerslider';
 import Pages from './Components/Section3';
+import Contact from './Components/ContactUs';
 import Footer from './Components/Footer';
+
 
 
 
@@ -46,8 +48,9 @@ const page = () => {
     {/* <Section6/> */}
     {/* <Footercards/> */}
     {/* <Footerslider/> */}
-    
+    <Contact/>
     <Footer/>
+   
 
   
     </>
